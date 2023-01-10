@@ -25,7 +25,7 @@ Finally, you will need to create an account on [https://replit.com](https://repl
 
 The following software needs to be installed on your computer:
 
- - [Twine 2.5.1](http://twinery.org/)
+ - [Twine 2.6.0](http://twinery.org/)
  - [GitHub Desktop](https://desktop.github.com/)
 
 Once you have completed that process, edit this file (README.md) by pressing the pencil icon.
